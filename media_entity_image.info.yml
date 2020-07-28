@@ -3,8 +3,7 @@ description: 'Provides the Image plugin for Media Entity.'
 type: module
 package: Media
 core: 8.x
-dependencies:
-  - media_entity
+core_version_requirement: ^8 || ^9
 
 test_dependencies:
-  - entity_browser
+  - entity_browser:entity_browser
