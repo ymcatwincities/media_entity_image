@@ -1,5 +1,5 @@
 {
-  "name": "drupal/media_entity_image",
+  "name": "ymcatwincities/media_entity_image",
   "type": "drupal-module",
   "description": "Local images integration for Drupal Media entity.",
   "keywords": ["Drupal", "media", "image"],
